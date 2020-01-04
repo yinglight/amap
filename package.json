@@ -1,0 +1,27 @@
+{
+  "name": "cordova-gaode-plugin",
+  "version": "1.0.7",
+  "description": "高德地图插件",
+  "cordova": {
+    "id": "cordova-gaode-plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinglight/amap.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "zhaoyz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yinglight/amap/issues"
+  },
+  "homepage": "https://github.com/yinglight/amap#readme"
+}
